@@ -1,25 +1,12 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+# react-testing
+A ReactJS component testing sample, using Mocha and Chai
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+1 - Clone the project on your desired folder: $ git clone git@github.com:mesqfel/react-testing.git<br><br>
+2 - Navigate to the folder: $ cd react-testing<br><br>
+3 - Install dependencies: $ npm install<br><br>
+6 - On folder /react-testing run: $ npm run start<br><br>
+7 - On another terminal tab run: $ npm run test<br><br> 
+8 - You should see the test cases<br><br>
+9 - If you have any trouble, email me: fe.mesquita88@gmail.com<br>
