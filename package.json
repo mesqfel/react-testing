@@ -1,7 +1,7 @@
 {
   "name": "react-testing",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "A ReactJS component testing sample, using Mocha and Chai",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
